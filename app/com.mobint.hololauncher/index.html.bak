@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Holo Launcher | 学生卡应用店</title>
+<style style="text/css">
+body
+{width:100%; margin:0px 0px 0px 0px; background-color:black;color:white; }
+a
+{color:white; text-decoration:none; }
+#head
+{width:100%; background-image: url("../../img/head.png"); color:white; text-align:center; background-size:100%; background-width:100%; background-repeat:no-repeat; margin: 0px 0px 0px 0px; }
+#des
+{margin: 0px 10px 20px 10px; }
+</style>
+</head>
+<body>
+<header id="head">
+<br>
+<p><img src="icon.png" width=80px height=80px><br><br><big><big><b>Holo Launcher</b></big></big></p>
+<br>
+<br>
+</header>
+<div id="des">
+<p>包名：com.mobint.hololauncher</p>
+<h6>介绍</h6>
+<p>Android Lollipop风格的启动器，界面简洁，占用空间小，快速，支持旧版。</p>
+</div>
+</body>
+</html>
